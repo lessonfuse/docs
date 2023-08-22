@@ -1,0 +1,26 @@
+[[docs]]
+  name = "docs"
+  weight = 10
+  identifier = "docs"
+  url = "/docs/"
+
+[[main]]
+  name = "Docs"
+  url = "/docs/"
+  weight = 10
+
+[[main]]
+  name = "How to get Access"
+  weight = 30
+  identifier = "pricing_section"
+  url = "access"
+
+ [[footer]]
+   name = "Privacy"
+   url = "/privacy/"
+   weight = 10
+
+ [[footer]]
+   name = "Terms of Use"
+   url = "/terms/"
+   weight = 10
