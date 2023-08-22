@@ -1,7 +1,7 @@
 ---
 title: Digitization Progress
 description: Illustration of the progress of digitization of the National Curriculum Framework. Updates daily.
-date: 2017-01-04
+date: 2023.07.29
 weight: 4
 ---
 
