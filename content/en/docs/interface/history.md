@@ -15,4 +15,4 @@ The status will be one of the following:
 
 Lessonplans that are Completed and Failed can be deleted. Lessonplans that are In Progress cannot be deleted.
 
-For completed you can click on the lessonplan and it will go to the template picking screen.
+For completed you can click on the lessonplan and it will go to the [template picking screen](/docs/interface/template/).

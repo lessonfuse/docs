@@ -13,49 +13,51 @@ Its really simple. You would need to upload a docx file with the following tags.
 
 ### Tags
 
-[subject_name] : The name of the subject
+Some of the following tags are optional fields which you may not be filling in. You can design the template to your liking and use only the tags you want.
 
-[grade_num] : The grade number
+`[subject_name]` : The name of the subject
 
-[teacher_name] : The name of the teacher
+`[grade_num]` : The grade number
 
-[date] : The date
+`[teacher_name]` : The name of the teacher
 
-[unit] : The unit
+`[date]` : The date
 
-[topic] : The topic
+`[unit]` : The unit
 
-[duration] : The duration
+`[topic]` : The topic
 
-[lesson] : The lesson number
+`[duration]` : The duration
 
-[strand] : The strand
+`[lesson]` : The lesson number
 
-[substrand] : The substrand
+`[strand]` : The strand
 
-[outcomes] : The outcomes
+`[substrand]` : The substrand
 
-[competency] : The competency
+`[outcomes]` : The outcomes
 
-[shared_values] : The shared values
+`[competency]` : The competency
 
-[learning_intention_section] : The learning intention section
+`[shared_values]` : The shared values
 
-[prior_knowledge] : The prior knowledge
+`[learning_intention_section]` : The learning intention section
 
-[vocabulary] : The vocabulary
+`[prior_knowledge]` : The prior knowledge
 
-[teaching_and_learning_resources] : The teaching and learning resources
+`[vocabulary]` : The vocabulary
 
-[hook] : The hook
+`[teaching_and_learning_resources]` : The teaching and learning resources
 
-[main_activity] : The main activity
+`[hook]` : The hook
 
-[differentiated_instruction] : The differentiated instruction
+`[main_activity]` : The main activity
 
-[closure] : The closure
+`[differentiated_instruction]` : The differentiated instruction
 
-[procedure] : The procedure
+`[closure]` : The closure
+
+`[procedure]` : The procedure
 
 ### More Information
 
