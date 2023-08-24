@@ -70,3 +70,5 @@ Its not nessesary for it to be a lesson plan, you can get creative and use the d
 ### Official Templates
 
 The official lessonfuse templates are already in place. Your templates are only visible to you.
+
+<script async src="https://telegram.org/js/telegram-widget.js?22" data-telegram-post="lessonfuse/289" data-width="100%" data-color="29B127" data-dark="1" data-dark-color="72E350"></script>
