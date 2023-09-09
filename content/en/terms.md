@@ -4,61 +4,62 @@ description: Terms of service for lessonfuse.com
 date: 2017-01-04
 weight: 20
 ---
+Welcome to Lessonfuse.com! By using our website and services, you agree to adhere to the following terms and conditions, which are designed to ensure a positive and secure experience for all users.
 
-Welcome to Lessonfuse.com. By using our website and services, you agree to be bound by the following terms and conditions.
+## 1. Introduction
 
-1. Introduction
+Lessonfuse.com serves as a valuable lesson plan generator aimed at assisting teachers in creating lesson plans aligned with the National Curriculum Framework. Our services are provided "as is," without any warranties or guarantees.
 
-Lessonfuse.com is a lesson plan generator that helps teachers create lesson plans in line with the National Curriculum Framework. Our services are provided on an “as is” basis, without any warranties or guarantees.
+## 2. Eligibility
 
-2. Eligibility
+To access our services, you must be an employed teacher in the Maldives, affiliated with a registered school.
 
-To use our services, you must be an employed teacher in Maldives in a registered school.
+## 3. Use of Services
 
-4. Use of Services
+You are expected to use our services exclusively for lawful purposes and in strict accordance with these terms and conditions. Any usage that contravenes applicable laws or regulations is strictly prohibited.
 
-You may use our services only for lawful purposes and in accordance with these terms and conditions. You may not use our services in any way that violates any applicable law or regulation.
+## 4. Intellectual Property
 
-5. Intellectual Property
+All content on our website, including text, graphics, logos, and software, is the exclusive property of Lessonfuse.com or its licensors, protected by intellectual property laws.
 
-All content on our website, including but not limited to text, graphics, logos, and software, is the property of Lessonfuse.com or its licensors and is protected by intellectual property laws.
+## 5. User Content
 
-6. User Content
+You maintain all rights to the content you submit to our website. By sharing content with us, you grant Lessonfuse.com a non-exclusive, royalty-free, perpetual, irrevocable license to utilize, modify, publish, distribute, and display such content on our website and through our services.
 
-You retain all rights in any content you submit to our website. By submitting content to our website, you grant us a non-exclusive, royalty-free, perpetual, irrevocable license to use, reproduce, modify, publish, distribute, and display such content on our website and through our services.
+## 6. Disclaimer of Warranties
 
-7. Disclaimer of Warranties
+Our services are provided "as is," with no warranties of any kind. We do not guarantee uninterrupted or error-free service.
 
-Our services are provided on an “as is” basis without any warranties of any kind. We do not warrant that our services will be uninterrupted or error-free.
+## 7. Limitation of Liability
 
-8. Limitation of Liability
+Lessonfuse.com shall not be held liable for any damages resulting from your use of our services or any information or content on our website.
 
-In no event will we be liable for any damages arising from your use of our services or from any information or content on our website.
+## 8. Indemnification
 
-9. Indemnification
+You agree to indemnify and hold harmless Lessonfuse.com and its affiliates from any claims or damages stemming from your use of our services or any violations of these terms and conditions.
 
-You agree to indemnify and hold harmless Lessonfuse.com and its affiliates from any claims or damages arising from your use of our services or from your breach of these terms and conditions.
+## 9. Changes to Terms and Conditions
 
-10. Changes to Terms and Conditions
+We retain the right to modify these terms and conditions at any time by updating this page. Your continued use of our website and services following any changes signifies your acceptance of the revised terms.
 
-We may revise these terms and conditions at any time by updating this page. Your continued use of our website and services after any changes constitutes your acceptance of the new terms.
+## 10. Governing Law
 
-11. Governing Law
+These terms and conditions are governed by the laws of the Maldives.
 
-These terms and conditions are governed by the laws of Maldives
+## 11. Automation and Scraping
 
-12. Automation and Scraping
+Use of automation or scraping tools to access our website is strictly prohibited. Violation of this policy will result in the blocking of your IP address and the inability to access our website.
 
-In no way should you use any automation or scraping tools to access our website. If you do so, we will block your IP address and you will not be able to access our website.
+## 12. Fair Use
 
-13. Fair Use
+We reserve the right to limit your access to our website if we believe your usage is unfair to other users. This includes activities such as generating an unrealistically excessive amount of lesson plans within a short timeframe. We monitor all user behaviour and will contact you if we identify any unfair practices.
 
-We reserve the right to throttle your access to our website if we feel that you are using our website in a way that is not fair to other users. This includes behaviour such as generating all the lesson plans in a subject in a short period of time. All user behaviour is monitored and we will contact you if we feel that you are not using our website in a fair manner.
+## 13. Your Privacy
 
-14. Your Privacy
+Rest assured, your data is secure with us. We do not share your data with any third parties. We utilize your data to enhance our services and provide you with an improved user experience.
 
-Your data is safe with us. We will never share your data with any party. We will use the data in a way where we can improve our services and provide you with a better experience.
+## 14. Payments
 
-15. Payments
+All payments made are final, and we do not offer refunds.
 
-All payments are final. We do not offer refunds.
+We appreciate your commitment to these terms and conditions, which contribute to a positive and productive environment for all Lessonfuse.com users. If you have any questions or concerns, please do not hesitate to contact us. Thank you for choosing Lessonfuse.com!
