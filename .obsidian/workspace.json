@@ -148,6 +148,8 @@
   },
   "active": "a409307c87d39295",
   "lastOpenFiles": [
+    "public/site.webmanifest",
+    "public/maskable_icon_x512.png",
     "content/en/privacy.md",
     "content/en/access.md",
     "content/en/_index.md",
@@ -169,7 +171,6 @@
     "public/js",
     "public/images/vendor",
     "public/images",
-    "public/docs/template.png",
     "public/docs",
     "public/fonts/vendor/jost/jost-v4-latin-regular.woff2",
     "public/fonts/vendor/jost/jost-v4-latin-regular.woff",
@@ -192,7 +193,6 @@
     "node_modules/handlebars/release-notes.md",
     "node_modules/table/README.md",
     "node_modules/markdownlint/README.md",
-    "node_modules/markdownlint/helpers/README.md",
-    "node_modules/markdownlint/doc/Prettier.md"
+    "node_modules/markdownlint/helpers/README.md"
   ]
 }
