@@ -48,11 +48,10 @@ As Lessonfuse continues to evolve and introduce new features, some price adjustm
 
 ## Refund Policy
 
-At this juncture, Lessonfuse is unable to issue refunds due to the rapid development pace of our service. However, as we establish ourselves further, we may explore refund options to better accommodate our users' needs.
+At this time, Lessonfuse is unable to issue refunds due to the rapid development pace of our service. However, as we establish ourselves further, we may explore refund options to better accommodate our users' needs.
 
 Your support and participation in Lessonfuse are greatly appreciated. We are committed to providing an affordable and enriching educational platform, and your feedback and engagement are invaluable in shaping our journey.
 
-Thank you for choosing Lessonfuse as your educational partner!
 
 ## Progress in Digitization
 
