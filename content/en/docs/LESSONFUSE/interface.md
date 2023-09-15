@@ -64,29 +64,30 @@ The history page provides a comprehensive view of all generated lesson plans, in
 
 ### Tags
 
-- Tags within the .docx file serve as placeholders for Lessonfuse-generated content and include:
-  - `[subject_name]`
-  - `[grade_num]`
-  - `[teacher_name]`
-  - `[date]`
-  - `[unit]`
-  - `[topic]`
-  - `[duration]`
-  - `[lesson]`
-  - `[strand]`
-  - `[substrand]`
-  - `[outcomes]`
-  - `[competency]`
-  - `[shared_values]`
-  - `[learning_intention_section]`
-  - `[prior_knowledge]`
-  - `[vocabulary]`
-  - `[teaching_and_learning_resources]`
-  - `[hook]`
-  - `[main_activity]`
-  - `[differentiated_instruction]`
-  - `[closure]`
-  - `[procedure]`
+Tags within the .docx file serve as placeholders for Lessonfuse-generated content and include:
+
+- `[subject_name]`
+- `[grade_num]`
+- `[teacher_name]`
+- `[date]`
+- `[unit]`
+- `[topic]`
+- `[duration]`
+- `[lesson]`
+- `[strand]`
+- `[substrand]`
+- `[outcomes]`
+- `[competency]`
+- `[shared_values]`
+- `[learning_intention_section]`
+- `[prior_knowledge]`
+- `[vocabulary]`
+- `[teaching_and_learning_resources]`
+- `[hook]`
+- `[main_activity]`
+- `[differentiated_instruction]`
+- `[closure]`
+- `[procedure]`
 
 ### Additional Information
 

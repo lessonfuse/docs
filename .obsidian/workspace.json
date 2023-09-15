@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/terms.md",
+                "file": "content/en/_index.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/terms.md",
+                "file": "content/en/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/terms.md",
+                "file": "content/en/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/terms.md"
+                "file": "content/en/_index.md"
+              }
+            }
+          },
+          {
+            "id": "cf5812bfdac215d9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -148,13 +158,15 @@
   },
   "active": "a409307c87d39295",
   "lastOpenFiles": [
+    "content/en/docs/LESSONFUSE/_index.md",
+    "content/en/docs/LESSONFUSE/interface.md",
+    "content/en/terms.md",
     "public/site.webmanifest",
     "public/maskable_icon_x512.png",
     "content/en/privacy.md",
     "content/en/access.md",
     "content/en/_index.md",
     "content/en/docs/LESSONFUSE/Modes.md",
-    "content/en/docs/LESSONFUSE/interface.md",
     "content/en/docs/LESSONFUSE/beyond.md",
     "content/en/docs/LESSONFUSE/about.md",
     "content/en/docs/LESSONFUSE/ai_lessonfuse.png",
@@ -166,7 +178,6 @@
     "static/images/landing.png",
     "static/images/history.png",
     "static/images/ai_lessonfuse.png",
-    "content/en/docs/LESSONFUSE/_index.md",
     "public/js/vendor",
     "public/js",
     "public/images/vendor",
@@ -176,7 +187,6 @@
     "public/fonts/vendor/jost/jost-v4-latin-regular.woff",
     "public/fonts/vendor/jost/jost-v4-latin-italic.woff2",
     "public/fonts/vendor/jost/jost-v4-latin-700italic.woff2",
-    "public/fonts/vendor/jost/jost-v4-latin-italic.woff",
     "content/en/docs/_index.md",
     "content/en/docs/about/_index.md",
     "node_modules/highlight.js/VERSION_11_UPGRADE.md",
