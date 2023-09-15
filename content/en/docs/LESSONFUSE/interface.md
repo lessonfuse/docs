@@ -10,7 +10,7 @@ weight: 7
 
 1. **Launch App**: Clicking this button directs users to the application. If not logged in, they will be taken to the login page.
 
-2. **View Documentation**: This button leads users to the documentation section for guidance and information.
+2. **More Info**: This button leads users to the documentation section for guidance and information.
 
 ![](images/landing.png)
 
@@ -53,7 +53,6 @@ The history page provides a comprehensive view of all generated lesson plans, in
 
 ### Interaction
 
-- Completed and Failed lesson plans can be deleted.
 - For completed plans, clicking on a lesson plan redirects users to the template picker.
 
 ## Templating System
@@ -99,4 +98,5 @@ Tags within the .docx file serve as placeholders for Lessonfuse-generated conten
 
 ### Official Templates
 
-- Lessonfuse provides official templates, which are visible only to the respective users.
+- Lessonfuse provides official templates, which are visible to all users.
+- User uploaded templates are only visible to the user who uploads them.
