@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "53e6d29980eff14c",
+        "id": "cda53717cda8ed94",
         "type": "tabs",
         "children": [
           {
-            "id": "a409307c87d39295",
+            "id": "13a3fa8acb78b680",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/en/_index.md",
+                "file": "content/en/docs/LESSONFUSE/Modes.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/en/_index.md",
+                "file": "content/en/docs/LESSONFUSE/Modes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/en/_index.md",
+                "file": "content/en/docs/LESSONFUSE/Modes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/en/_index.md"
+                "file": "content/en/docs/LESSONFUSE/Modes.md"
               }
             }
           },
@@ -156,28 +156,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a409307c87d39295",
+  "active": "13a3fa8acb78b680",
   "lastOpenFiles": [
-    "content/en/docs/LESSONFUSE/_index.md",
     "content/en/docs/LESSONFUSE/interface.md",
-    "content/en/terms.md",
-    "public/site.webmanifest",
-    "public/maskable_icon_x512.png",
-    "content/en/privacy.md",
-    "content/en/access.md",
-    "content/en/_index.md",
-    "content/en/docs/LESSONFUSE/Modes.md",
     "content/en/docs/LESSONFUSE/beyond.md",
     "content/en/docs/LESSONFUSE/about.md",
+    "content/en/docs/LESSONFUSE/_index.md",
+    "content/en/docs/_index.md",
+    "content/en/_index.md",
+    "content/en/terms.md",
+    "content/en/privacy.md",
+    "content/en/access.md",
+    "static/images/Pasted image 20230915211218.png",
+    "static/images/Pasted image 20230915211155.png",
+    "static/images/Pasted image 20230915211128.png",
+    "static/images/Pasted image 20230915211044.png",
+    "public/site.webmanifest",
+    "public/maskable_icon_x512.png",
+    "content/en/docs/LESSONFUSE/Modes.md",
     "content/en/docs/LESSONFUSE/ai_lessonfuse.png",
     "static/images/template.png",
     "static/images/menu.png",
     "static/images/login.png",
     "static/images/lessonplans_filled.png",
-    "static/images/lessonfusecore.png",
-    "static/images/landing.png",
-    "static/images/history.png",
-    "static/images/ai_lessonfuse.png",
     "public/js/vendor",
     "public/js",
     "public/images/vendor",
@@ -187,7 +188,6 @@
     "public/fonts/vendor/jost/jost-v4-latin-regular.woff",
     "public/fonts/vendor/jost/jost-v4-latin-italic.woff2",
     "public/fonts/vendor/jost/jost-v4-latin-700italic.woff2",
-    "content/en/docs/_index.md",
     "content/en/docs/about/_index.md",
     "node_modules/highlight.js/VERSION_11_UPGRADE.md",
     "node_modules/highlight.js/VERSION_10_UPGRADE.md",
@@ -202,7 +202,6 @@
     "node_modules/postcss-load-config/node_modules/yaml/README.md",
     "node_modules/handlebars/release-notes.md",
     "node_modules/table/README.md",
-    "node_modules/markdownlint/README.md",
-    "node_modules/markdownlint/helpers/README.md"
+    "node_modules/markdownlint/README.md"
   ]
 }

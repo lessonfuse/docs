@@ -4,15 +4,15 @@ description: Terms of service for lessonfuse.com
 date: 2017-01-04
 weight: 20
 ---
-Welcome to Lessonfuse.com! By using our website and services, you agree to adhere to the following terms and conditions, which are designed to ensure a positive and secure experience for all users.
+By using lessonfuse.com and all its subdomains, you agree to adhere to the following terms and conditions, which are designed to ensure a positive and secure experience for all users.
 
 ## 1. Introduction
 
-Lessonfuse.com serves as a valuable lesson plan generator aimed at assisting teachers in creating lesson plans aligned with the National Curriculum Framework. Our services are provided "as is," without any warranties or guarantees.
+Lessonfuse.com serves as a valuable lesson plan generator aimed at assisting teachers in creating lesson plans aligned with the National Curriculum Framework of Maldives. Our services are provided "as is," without any warranties or guarantees.
 
 ## 2. Eligibility
 
-To access our services, you must be an employed teacher in the Maldives, affiliated with a registered school.
+To access our services, you must be an employed teacher in the Maldives, affiliated with a registered public school.
 
 ## 3. Use of Services
 

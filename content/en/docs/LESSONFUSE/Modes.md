@@ -11,7 +11,7 @@ Lessonfuse offers several generation modes designed to assist teachers in creati
    - Users start by selecting a grade level, followed by a subject. Subject options are limited to those available for the chosen grade.
 
 2. **Sub strand Selection**:
-   - Lessonfuse automatically selects the strand based on the chosen sub strand. In some subjects, like English, a "Mixed Mode" sub strand is available, containing all outcomes and indicators for that subject.
+   - Lessonfuse automatically selects the strand based on the chosen sub strand. A "Mixed Mode" sub strand is available, containing all outcomes and indicators for that subject to cater for language subjects
 
 3. **Outcomes and Indicators**:
    - After selecting the sub strand, users are presented with a set of outcomes and indicators for that sub strand.
@@ -30,10 +30,8 @@ Lessonfuse offers several generation modes designed to assist teachers in creati
    - Users are expected to tick the relevant indicators.
 
 ### Assisted Mode (Not recommended as of now)
-- Assisted mode requires teachers to provide a general focus for their lesson plans.
-- Teachers also select educational competencies and their indicators, similar to manual mode.
-- The AI attempts to connect the focus with competencies and indicators, giving preference to outcomes, competencies, and indicators if the focus lacks details.
-- Assisted mode is planned to be replaced with a new mode in the future.
+- Assisted mode is being discontinued
+
 
 ### Manual Mode
 - Manual Mode is for teachers who prefer not to use AI generation.

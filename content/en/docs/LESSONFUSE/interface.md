@@ -25,7 +25,7 @@ weight: 7
 #### Registration
 
 - Lessonfuse registration is exclusive to educators, and student teachers are not eligible.
-- To register, users must contact Lessonfuse and pay the subscription fee.
+- To register, users must contact us and pay the subscription fee.
 - Users should provide an edu.mv email address associated with a school.
 - Contact can be made via Viber or Telegram at the number 7873673 after payment.
 

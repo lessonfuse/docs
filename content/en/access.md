@@ -1,11 +1,11 @@
 ---
 title: Access to lessonfuse.com
 description: Privacy policy for lessonfuse.com
-date: 2017-01-04
+date: 2023-09-15
 weight: 20
 ---
 
-To register and access Lessonfuse's powerful features, simply follow these easy steps:
+To register and access the powerful features of Lessonfuse, simply follow these easy steps:
 
 1. **Contact Us to Get Started**
 
