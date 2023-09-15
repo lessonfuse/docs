@@ -11,8 +11,12 @@
             "id": "13a3fa8acb78b680",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "content/en/_index.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "content/en/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "content/en/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "content/en/_index.md"
+              }
             }
           },
           {
@@ -150,36 +158,36 @@
   },
   "active": "13a3fa8acb78b680",
   "lastOpenFiles": [
-    "content/en/_index.md",
     "content/en/docs/_index.md",
-    "content/en/docs/LESSONFUSE/Modes.md",
     "content/en/docs/LESSONFUSE/interface.md",
+    "content/en/docs/LESSONFUSE/Modes.md",
+    "public/robots.txt",
+    "public/docs/sitemap.xml",
+    "public/index.xml",
+    "public/categories/page/1/index.html",
+    "public/categories/page/1",
+    "public/categories/page",
+    "public/categories/index.xml",
+    "public/categories/index.html",
+    "public/categories",
+    "public/docs/index.xml",
+    "public/images/template.png",
+    "public/images/menu.png",
+    "public/images/login.png",
+    "public/images/lessonplans_filled.png",
+    "public/images/lessonfusecore.png",
+    "public/images/landing.png",
+    "public/images/history.png",
+    "public/images/ai_lessonfuse.png",
+    "public/images/Pasted image 20230915211218.png",
+    "public/images/Pasted image 20230915211155.png",
+    "content/en/_index.md",
     "content/en/docs/LESSONFUSE/beyond.md",
     "content/en/docs/LESSONFUSE/about.md",
     "content/en/docs/LESSONFUSE/_index.md",
     "content/en/terms.md",
     "content/en/privacy.md",
     "content/en/access.md",
-    "static/images/Pasted image 20230915211218.png",
-    "static/images/Pasted image 20230915211155.png",
-    "static/images/Pasted image 20230915211128.png",
-    "static/images/Pasted image 20230915211044.png",
-    "public/site.webmanifest",
-    "public/maskable_icon_x512.png",
-    "content/en/docs/LESSONFUSE/ai_lessonfuse.png",
-    "static/images/template.png",
-    "static/images/menu.png",
-    "static/images/login.png",
-    "static/images/lessonplans_filled.png",
-    "public/js/vendor",
-    "public/js",
-    "public/images/vendor",
-    "public/images",
-    "public/docs",
-    "public/fonts/vendor/jost/jost-v4-latin-regular.woff2",
-    "public/fonts/vendor/jost/jost-v4-latin-regular.woff",
-    "public/fonts/vendor/jost/jost-v4-latin-italic.woff2",
-    "public/fonts/vendor/jost/jost-v4-latin-700italic.woff2",
     "content/en/docs/about/_index.md",
     "node_modules/highlight.js/VERSION_11_UPGRADE.md",
     "node_modules/highlight.js/VERSION_10_UPGRADE.md",
